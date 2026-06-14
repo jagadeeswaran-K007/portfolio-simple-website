@@ -11,9 +11,8 @@ Contact section
 Beginner-friendly codebase built with pure HTML and CSS
 
 ## Technologies Used
-HTML5
+HTML5, 
 CSS3
-
 
 ## Purpose
 This project was created to practice front-end web development fundamentals and to build a personal portfolio for presenting my work and skills online.
@@ -24,5 +23,3 @@ jagadeeswaran-K007
 ## Live Demo
 
 Visit the website here: https://jagadeeswaran-k007.github.io/portfolio-simple-website/
-
-## 🤝 Connect with Me
